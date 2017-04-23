@@ -46,7 +46,7 @@ Then, add this dependency to your app build.gradle file:
 
 ```
 	dependencies {
-		compile 'com.github.User:Repo:Tag'
+		compile 'com.github.cdisdero:CRDTestExpectation-Android:1.0.0'
 	}
 ```
 
